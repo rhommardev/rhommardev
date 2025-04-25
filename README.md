@@ -25,9 +25,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rhommardev2023&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false" height="110" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=rhommardev2023&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="110" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=rhommardev2023&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5" height="110" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rhommardev2023&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rhommardev2023&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=rhommardev2023&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
@@ -46,10 +46,5 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rhommardev2023/rhommardev2023/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rhommardev2023/rhommardev2023/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rhommardev2023/rhommardev2023/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
