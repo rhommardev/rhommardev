@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Tecnologias que estou treinando</h2>
+<h2 align="left">Tecnologias</h2>
 
 ###
 
@@ -46,30 +46,14 @@
 
 ###
 
-name: Generate Datas
+<img src="https://raw.githubusercontent.com/rhommardev2023/rhommardev2023/output/snake.svg" alt="Snake animation" />
 
-on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-  workflow_dispatch:
+###
 
-jobs:
-  build:
-    name: Jobs to update datas
-    runs-on: ubuntu-latest
-    steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: rhommardev2023
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rhommardev2023/rhommardev2023/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rhommardev2023/rhommardev2023/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rhommardev2023/rhommardev2023/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
