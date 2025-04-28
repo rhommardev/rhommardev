@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Sou eletricista de manutenção industrial e estudante de análise e desenvolvimento de sistemas com experiência na área elétrica e automação industrial iniciando na area da programação.</h3>
+<h3 Estudante de análise e desenvolvimento de sistemas com experiência na área elétrica e automação industrial iniciando na area da programação, Frontend.</h3>
 
 ###
 
