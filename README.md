@@ -1,10 +1,8 @@
 <h1 align="left">Sobre</h1>
 
-###
 
-<h3 Estudante de análise e desenvolvimento de sistemas com experiência na área elétrica e automação industrial iniciando na area da programação, Frontend.</h3>
+Estudante de análise e desenvolvimento de sistemas com experiência na área elétrica de automação industrial iniciando na area da programação, Frontend.
 
-###
 
 <h2 align="left">Tecnologias</h2>
 
