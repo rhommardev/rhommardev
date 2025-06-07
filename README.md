@@ -1,8 +1,7 @@
 <h1 align="left">Sobre</h1>
 
 
-Estudante de análise e desenvolvimento de sistemas com experiência na área elétrica de automação industrial iniciando na area da programação, Frontend.
-
+Estudante de análise e desenvolvimento de sistemas e profissional com uma sólida trajetória na elétrica industrial e atualmente mergulhado no universo da tecnologia.
 
 <h2 align="left">Tecnologias</h2>
 
