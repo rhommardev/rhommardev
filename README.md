@@ -1,29 +1,21 @@
-<h1 align="left">Sobre</h1>
+<h1 align="left">Rhommar Martinez</h1>
 
 
-Estudante de análise e desenvolvimento de sistemas e profissional com uma sólida trajetória na elétrica industrial e atualmente mergulhado no universo da tecnologia.
+Sou um profissional em transição de carreira para a área de tecnologia, motivado pela possibilidade de atuar remotamente, acessar melhores oportunidades e fazer parte de ambientes inovadores, inclusivos e colaborativos. Tenho formação técnica em elétrica e atualmente estudo Análise e Desenvolvimento de Sistemas. Busco aplicar minha experiência, adaptabilidade e sede por conhecimento em soluções digitais que gerem impacto positivo."
 
 <h2 align="left">Tecnologias</h2>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ###
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhommardev2023&theme=radical&layout=compact) </br>
+![](https://github-readme-stats.vercel.app/api?username=rhommardev2023&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-contributor-stats.vercel.app/api?username=rhommardev2023&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rhommardev2023&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=rhommardev2023&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
+
 
 ###
 
@@ -39,7 +31,3 @@ Estudante de análise e desenvolvimento de sistemas e profissional com uma sóli
   </a>
 </div>
 
-###
-
-
-###
