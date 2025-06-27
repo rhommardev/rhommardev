@@ -15,7 +15,6 @@ Sou um profissional em transição de carreira para a área de tecnologia, motiv
 
 
 
-
 ###
 
 # 💻 Tech Stack:
