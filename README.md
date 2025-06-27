@@ -6,7 +6,8 @@ Sou um profissional em transição de carreira para a área de tecnologia, motiv
 <h2 align="left"> Objetivos de conhecimento:</h2>
 -Logica de programação
 -Versionamento de codigo git e github
--Conhecimetos de programacao linguagems de alto nivel
+-Desenvolvimento de software 
+-Fundamentos de progrmamacao com linguagems de alto nivel
 -Sistemas de bancos de dados SQL
 - Ia generativa 
 -Analisis de dados
