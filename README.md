@@ -1,9 +1,19 @@
 <h1 align="left">Rhommar Martinez</h1>
 
 
-Sou um profissional em transição de carreira para a área de tecnologia, motivado pela possibilidade de atuar remotamente, acessar melhores oportunidades e fazer parte de ambientes inovadores, inclusivos e colaborativos. Tenho formação técnica em elétrica e atualmente estudo Análise e Desenvolvimento de Sistemas. Busco aplicar minha experiência, adaptabilidade e sede por conhecimento em soluções digitais que gerem impacto positivo."
+Sou um profissional em transição de carreira para a área de tecnologia, motivado pela possibilidade de fazer parte de ambientes inovadores, inclusivos e colaborativos onde possa . Tenho formação técnica em elétrica e atualmente estudo Análise e Desenvolvimento de Sistemas. Busco aplicar minha experiência, adaptabilidade e sede por conhecimento em soluções digitais que gerem impacto positivo.
 
-<h2 align="left">Tecnologias</h2>
+<h2 align="left"> Objetivos de conhecimento:</h2>
+-Logica de programação
+-Versionamento de codigo git e github
+-Conhecimetos de programacao linguagems de alto nivel
+-Sistemas de bancos de dados SQL
+- Ia generativa 
+-Analisis de dados
+
+
+
+
 
 ###
 
