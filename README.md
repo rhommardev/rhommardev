@@ -22,6 +22,7 @@ Sou um profissional em transição de carreira para a área de tecnologia, motiv
 
 ###
 
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=rhommardev&layout=compact&theme=dracula)
 
 
 ###
